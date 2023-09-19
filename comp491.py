@@ -11,6 +11,7 @@ def print_names():
              'Melantha Chen'
              'Myra Hasan'
              'Belgin Koç', 
+             'Andrew Lai',
              ]
     print('Here are COMP491 members in alphabetical order:')
     sorted_names = sorted(names)
