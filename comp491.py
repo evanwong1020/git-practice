@@ -11,6 +11,7 @@ def print_names():
              'Melantha Chen'
              'Tanner Scott'
              'Myra Hasan'
+             'Dzung Dinh'
              'Belgin Koç', 
              'Dung Ha'
              'Tap Dang',
