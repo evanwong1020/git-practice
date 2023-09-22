@@ -9,6 +9,7 @@ def print_names():
              'Marcel Lee',
              'Hailie Mitchell',
              'Melantha Chen'
+             'Tanner Scott'
              'Myra Hasan'
              'Belgin Koç', 
              ]
