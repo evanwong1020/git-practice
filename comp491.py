@@ -5,9 +5,11 @@ def print_names():
     names = ['John MacCormick',
              'Aaron Stern',
              'Christian Gonzalez', 
-             'William Cheng'
+             'William Cheng',
              'Marcel Lee',
              'Hailie Mitchell',
+             'Michael Krause',
+             'Myra Hasan',
              'Melantha Chen'
              'Tanner Scott'
              'Myra Hasan'
