@@ -14,7 +14,7 @@ def print_names():
              'Tanner Scott'
              'Myra Hasan'
              'Sai Atluri',
-	           'Ethan Hart', 
+	     'Ethan Hart', 
              'Dzung Dinh'
              'Belgin Koç', 
              'Souha Alioua',
