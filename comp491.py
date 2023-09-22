@@ -11,7 +11,8 @@ def print_names():
              'Melantha Chen'
              'Tanner Scott'
              'Myra Hasan'
-             'Belgin Koç',
+             'Belgin Koç', 
+             'Dung Ha'
              'Tap Dang',
              ]
     print('Here are COMP491 members in alphabetical order:')
