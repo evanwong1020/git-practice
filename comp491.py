@@ -5,13 +5,22 @@ def print_names():
     names = ['John MacCormick',
              'Aaron Stern',
              'Christian Gonzalez', 
-             'William Cheng'
+             'William Cheng',
              'Marcel Lee',
              'Hailie Mitchell',
+             'Michael Krause',
+             'Myra Hasan',
              'Melantha Chen'
+             'Tanner Scott'
              'Myra Hasan'
+             'Sai Atluri',
+	           'Ethan Hart', 
+             'Dzung Dinh'
              'Belgin Koç', 
              'Souha Alioua',
+             'Andrew Lai',
+             'Dung Ha'
+             'Tap Dang',
              ]
     print('Here are COMP491 members in alphabetical order:')
     sorted_names = sorted(names)
