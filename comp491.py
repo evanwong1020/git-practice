@@ -16,6 +16,7 @@ def print_names():
 	           'Ethan Hart', 
              'Dzung Dinh'
              'Belgin Koç', 
+             'Andrew Lai',
              'Dung Ha'
              'Tap Dang',
              ]
